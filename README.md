@@ -1,5 +1,3 @@
-# login
-
 Basic welcome, login and signup screen designed in flutter.
 
 ## Getting Started
